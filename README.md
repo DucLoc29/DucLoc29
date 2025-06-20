@@ -31,21 +31,20 @@
 
 ## 🚀 Projects
 Here are some of my featured projects:
-- 🍲 [Recipe Website](https://github.com/WebsiteRatatouille/Recipe_Website):  
+- 🍲 [Recipe Website](https://github.com/WebsiteRatatouille/Recipe_Website) 
   A full-stack cooking recipe app with user roles, admin dashboard, Cloudinary image upload, and dynamic filtering/searching.
 
-- 🧠 [AI Puzzle Solver](https://github.com/WebsiteRatatouille/Puzzle_Game):  
+- 🧠 [AI Puzzle Solver](https://github.com/WebsiteRatatouille/Puzzle_Game)
   Solves the 8-puzzle game using advanced AI techniques like IDA* and pattern databases, with a Pygame-based GUI.
 
-- 📝 [Quiz App for Students](https://github.com/DucLoc29/DoAnThiTracNghiem):  
+- 📝 [Quiz App for Students](https://github.com/DucLoc29/DoAnThiTracNghiem)
   A multiple-choice test simulation app for students with automatic scoring and a clean user interface using vanilla JS.
 
-- 🚗 [Driving License Test Simulator](https://github.com/DucLoc29/DoAnThiBangLai):  
+- 🚗 [Driving License Test Simulator](https://github.com/DucLoc29/DoAnThiBangLai)
   An online web app simulating the Vietnamese driving license theory test with 30 timed questions and instant feedback.
 
 
-## 📘 Learning Journal
-I'm documenting what I learn in this repo: [Learning-Journal](https://github.com/DucLoc29/learning-journal)
+
 
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DucLoc29&layout=compact)
