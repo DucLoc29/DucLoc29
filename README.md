@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Duc Loc
+# Hi, I'm Duc Loc
 
 ## 💻 About Me
-- 🎓 I'm a final-year IT student at PTIT, currently leading the INITNET technical team.
-- 🌐 Passionate about **Network Administration, Cybersecurity, and Infrastructure as Code (IaC)**.
-- 🎯 Currently preparing for my **CCNA certification** and working on my graduation thesis about real-time anomaly detection in network traffic using Autoencoders.
-- 🌱 Exploring: Network Automation (Ansible, Terraform), Java Socket Programming, and System Monitoring.
+- I'm a final-year IT student at PTIT, currently leading the INITNET technical team.
+- Passionate about **Network Administration, Cybersecurity, and Infrastructure as Code (IaC)**.
+- Currently preparing for my **CCNA certification** and working on my graduation thesis about real-time anomaly detection in network traffic using Autoencoders.
+- Exploring: Network Automation (Ansible, Terraform), Java Socket Programming, and System Monitoring.
 
 ## 🔧 Skills
 - **Languages:** Java, Python, C++, JavaScript
@@ -30,19 +30,19 @@
 ## 🚀 Projects
 Here are some of my featured projects:
 
-- 🛡️ **Network Traffic Anomaly Detection**
+- **Network Traffic Anomaly Detection**
   My graduation project focusing on detecting anomalies in system logs and network traffic in real-time using Autoencoder models.
 
-- 💬 **[Multi-User Chat Application (Java TCP Socket)](https://github.com/DucLoc29/TCPChatSocketServerClient)**
+- **[Multi-User Chat Application (Java TCP Socket)](https://github.com/DucLoc29/TCPChatSocketServerClient)**
   A robust group chat application built with Java, featuring multi-threading, room-based communication, and a Swing GUI.
 
-- ⏱️ **[Berkeley Clock Synchronization (TCP)](https://github.com/DucLoc29/TCPClockBerkeley)**
+- **[Berkeley Clock Synchronization (TCP)](https://github.com/DucLoc29/TCPClockBerkeley)**
   Implementation of the Berkeley algorithm for clock synchronization across distributed systems using Java TCP Sockets.
 
-- 📊 **Network Monitoring System**
+- **Network Monitoring System**
   Implemented a network monitoring solution using SNMP and MRTG to collect data and visualize network traffic on a web interface.
 
-- 🧠 **[AI Puzzle Solver](https://github.com/WebsiteRatatouille/Puzzle_Game)**
+- **[AI Puzzle Solver](https://github.com/WebsiteRatatouille/Puzzle_Game)**
   Solves the 8-puzzle game using advanced AI techniques like IDA* and pattern databases. *(A past project highlighting my logic and Python skills)*
 
 ## 📈 GitHub Stats
@@ -50,4 +50,4 @@ Here are some of my featured projects:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DucLoc29&show_icons=true)
 
 ## 🔗 Connect with me
-- 📫 Email: nguyenducloc.dalat@gmail.com
+- Email: nguyenducloc.dalat@gmail.com
