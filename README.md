@@ -47,7 +47,6 @@ Here are some of my featured projects:
 
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DucLoc29&layout=compact)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DucLoc29&show_icons=true)
 
 ## 🔗 Connect with me
 - Email: nguyenducloc.dalat@gmail.com
