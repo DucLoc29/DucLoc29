@@ -1,50 +1,49 @@
 # 👋 Hi, I'm Duc Loc
 
 ## 💻 About Me
-- 🎓 I'm a student passionate about web development and AI.
-- 🛠️ I enjoy solving real-world problems with code.
-- 🌱 Currently learning: React, Node.js, MongoDB, and Machine Learning.
+- 🎓 I'm a final-year IT student at PTIT, currently leading the INITNET technical team.
+- 🌐 Passionate about **Network Administration, Cybersecurity, and Infrastructure as Code (IaC)**.
+- 🎯 Currently preparing for my **CCNA certification** and working on my graduation thesis about real-time anomaly detection in network traffic using Autoencoders.
+- 🌱 Exploring: Network Automation (Ansible, Terraform), Java Socket Programming, and System Monitoring.
 
 ## 🔧 Skills
-- Languages: JavaScript, Python, C++
-- Frontend: HTML, CSS, React.js
-- Backend: Node.js, Express
-- Database: MongoDB, MySQL
-- Tools: Git, Docker, VS Code
+- **Languages:** Java, Python, C++, JavaScript
+- **Networking & Security:** CCNA concepts, TCP/UDP Protocols, Routing & Switching, SNMP, MRTG
+- **System & Automation:** Linux (Ubuntu, Kali), Ansible, Terraform, Bash Scripting
+- **Tools & Virtualization:** EVE-NG, VMware, Wireshark, Docker, Git
 
 ## 🧰 Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white" />
 </p>
-
 
 ## 🚀 Projects
 Here are some of my featured projects:
-- 🍲 [Recipe Website](https://github.com/WebsiteRatatouille/Recipe_Website) 
-  A full-stack cooking recipe app with user roles, admin dashboard, Cloudinary image upload, and dynamic filtering/searching.
 
-- 🧠 [AI Puzzle Solver](https://github.com/WebsiteRatatouille/Puzzle_Game)
-  Solves the 8-puzzle game using advanced AI techniques like IDA* and pattern databases, with a Pygame-based GUI.
+- 🛡️ **Network Traffic Anomaly Detection**
+  My graduation project focusing on detecting anomalies in system logs and network traffic in real-time using Autoencoder models.
 
-- 📝 [Quiz App for Students](https://github.com/DucLoc29/DoAnThiTracNghiem)
-  A multiple-choice test simulation app for students with automatic scoring and a clean user interface using vanilla JS.
+- 💬 **[Multi-User Chat Application (Java TCP Socket)](https://github.com/DucLoc29/TCPChatSocketServerClient)**
+  A robust group chat application built with Java, featuring multi-threading, room-based communication, and a Swing GUI.
 
-- 🚗 [Driving License Test Simulator](https://github.com/DucLoc29/DoAnThiBangLai)
-  An online web app simulating the Vietnamese driving license theory test with 30 timed questions and instant feedback.
+- ⏱️ **[Berkeley Clock Synchronization (TCP)](https://github.com/DucLoc29/TCPClockBerkeley)**
+  Implementation of the Berkeley algorithm for clock synchronization across distributed systems using Java TCP Sockets.
 
+- 📊 **Network Monitoring System**
+  Implemented a network monitoring solution using SNMP and MRTG to collect data and visualize network traffic on a web interface.
 
-
+- 🧠 **[AI Puzzle Solver](https://github.com/WebsiteRatatouille/Puzzle_Game)**
+  Solves the 8-puzzle game using advanced AI techniques like IDA* and pattern databases. *(A past project highlighting my logic and Python skills)*
 
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DucLoc29&layout=compact)
@@ -52,4 +51,3 @@ Here are some of my featured projects:
 
 ## 🔗 Connect with me
 - 📫 Email: nguyenducloc.dalat@gmail.com
-
